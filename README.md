@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdessamad ouahidi</h1>
 - 🔭 I’m currently working on [Libft](https://github.com/wewe129/Libft)
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarouanDoulahiane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MarouanDoulahiane&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarouanDoulahiane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdessamad-ouahidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdessamad-ouahidi" height="30" width="40" /></a>
