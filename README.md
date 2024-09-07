@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=460&lines=Full Stack+Developer;Always+Learning+New+Things;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=460&lines=Mobile+Developer;Always+Learning+New+Things;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 
 <p align="center">
   <a href="https://github.com/wewe129/Libft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wewe129&repo=AngularProject&theme=radical" alt="AngularProject" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wewe129&repo=Libft&theme=radical" alt="Libft" />
   </a>
   <a href="https://github.com/wewe129/Myjeux">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wewe129&repo=Myjeux&theme=radical" alt="Myjeux" />
