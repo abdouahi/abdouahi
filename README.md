@@ -25,7 +25,7 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarouanDoulahiane&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wewe129&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
