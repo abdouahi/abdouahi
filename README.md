@@ -33,8 +33,9 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wewe129&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&hide=python" height="150" alt="languages graph" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wewe129&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&hide=python" height="150" alt="languages graph" style="max-width: 100%;">
 </p>
+
 
 ## 🏆 GitHub Trophies
 
