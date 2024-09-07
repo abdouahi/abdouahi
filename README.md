@@ -1,13 +1,59 @@
-<h1 align="center">Hi 👋, I'm Abdessamad ouahidi</h1>
-- 🔭 I’m currently working on [Libft](https://github.com/wewe129/Libft)
+# Hi there! 👋 I'm [Your Name]
 
+## About Me
+[Brief introduction about yourself]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdessamad-ouahidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdessamad-ouahidi" height="30" width="40" /></a>
-</p>
+## 🔭 I'm currently working on
+- [Project 1]
+- [Project 2]
+- [Project 3]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 🌱 I'm currently learning
+- [Skill 1]
+- [Skill 2]
+- [Skill 3]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wewe129&show_icons=true&locale=en" alt="wewe129" /></p>
+## 👯 I'm looking to collaborate on
+[Types of projects or areas of interest]
+
+## 🤔 I'm looking for help with
+[Areas where you need assistance or want to improve]
+
+## 💬 Ask me about
+[Topics you're knowledgeable about]
+
+## 📫 How to reach me
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [Your Twitter Handle]
+
+## 😄 Pronouns
+[Your Pronouns]
+
+## ⚡ Fun fact
+[An interesting fact about yourself]
+
+## 🛠 Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🗂️ Highlight Projects
+<a href="https://github.com/YourGitHubUsername/Project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project1&theme=radical" />
+</a>
+<a href="https://github.com/YourGitHubUsername/Project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project2&theme=radical" />
+</a>
+
+---
+⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
