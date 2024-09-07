@@ -63,9 +63,6 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
 
 ---
 
