@@ -33,7 +33,7 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/53eaa33909d6743067f58a9c2b27b0347b4facb8546d6aac05894912f4d3495c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d4d61726f75616e446f756c616869616e65266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d6a6f6c6c7926686964655f626f726465723d66616c7365" height="150" alt="languages graph" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=wewe129&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=jolly&amp;hide_border=false" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wewe129&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&hide=python" height="150" alt="languages graph" style="max-width: 100%;">
 </p>
 
 ## 🏆 GitHub Trophies
