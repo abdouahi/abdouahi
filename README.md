@@ -26,7 +26,7 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-F7DF1E?style=for-the-badge&logo=C&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/--0000FF?style=for-the-badge&logo=C&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
