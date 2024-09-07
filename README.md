@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30px"> 
-  Hello World, I'm Markoson Douflahian!
+  Hello World, I'm Abdessamad ouahidi!
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer from Morocco, constantly exploring new technologies and pushing the boundaries of what's possible in web development. With a keen eye for detail and a love for clean, efficient code, I strive to create impactful digital experiences.
+I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 1337, powered by the 42 network and sponsored by OCP Group as part of UM6P. Since beginning my journey in November 2024, I have dived deep into a wide range of projects and learning experiences. With a strong foundation in C, C++, Java, and Kotlin, I continuously strive to enhance my skills, driven by a commitment to excellence and a love for technology. I believe that continuous learning and discipline are the keys to success, and I am determined to push beyond the ordinary in pursuit of greatness.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -26,7 +26,7 @@ I'm a passionate Full Stack Developer from Morocco, constantly exploring new tec
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-C-F7DF1E?style=for-the-badge&logo=C&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
