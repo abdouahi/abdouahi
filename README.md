@@ -41,9 +41,10 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/wewe129/Libft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wewe129&repo=Libft&theme=radical" alt="Libft" />
+  <a href="https://github.com/wewe129/Libft" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wewe129&repo=Libft&theme=radical" alt="Libft repository" />
   </a>
+
   <a href="https://github.com/wewe129/Myjeux">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wewe129&repo=Myjeux&theme=radical" alt="Myjeux" />
   </a>
