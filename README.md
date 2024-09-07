@@ -19,7 +19,7 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,kotlin,linux,mongodb,java&perline=6)](https://skillicons.dev)
 
 
 ## 📊 GitHub Stats
