@@ -41,7 +41,7 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/wewe129/AngularProject">
+  <a href="https://github.com/wewe129/Libft">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wewe129&repo=AngularProject&theme=radical" alt="AngularProject" />
   </a>
   <a href="https://github.com/wewe129/Myjeux">
