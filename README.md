@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 1337, powered by the 42 network and sponsored by OCP Group as part of UM6P. Since beginning my journey in November 2024, I have dived deep into a wide range of projects and learning experiences. With a strong foundation in C, C++, Java, and Kotlin, I continuously strive to enhance my skills, driven by a commitment to excellence and a love for technology. I believe that continuous learning and discipline are the keys to success, and I am determined to push beyond the ordinary in pursuit of greatness.
+I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 1337, powered by the 42 network and sponsored by OCP Group as part of UM6P. Since beginning my journey in October 2024, I have dived deep into a wide range of projects and learning experiences. With a strong foundation in C, C++, Java, and Kotlin, I continuously strive to enhance my skills, driven by a commitment to excellence and a love for technology. I believe that continuous learning and discipline are the keys to success, and I am determined to push beyond the ordinary in pursuit of greatness.
 
 
 
