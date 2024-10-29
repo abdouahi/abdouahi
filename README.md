@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30px"> 
-  Hello World, I'm Abdessamad ouahidi!
+  Hello World, I'm Abdessamad ouahidi! 
 </h1>
 
 <p align="center">
