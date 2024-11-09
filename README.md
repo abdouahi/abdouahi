@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wewe129&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdouahi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## 🚀 About Me
@@ -25,34 +25,34 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wewe129&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdouahi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wewe129&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdouahi&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wewe129&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&hide=python" height="150" alt="languages graph" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdouahi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&hide=python" height="150" alt="languages graph" style="max-width: 100%;">
 </p>
 
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wewe129&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdouahi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/wewe129/Libft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wewe129&repo=Libft&theme=radical" alt="Libft" />
+  <a href="https://github.com/abdouahi/Libft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdouahi&repo=Libft&theme=radical" alt="Libft" />
   </a>
 
 
-  <a href="https://github.com/wewe129/Myjeux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wewe129&repo=Myjeux&theme=radical" alt="Myjeux" />
+  <a href="https://github.com/abdouahi/Myjeux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdouahi&repo=Myjeux&theme=radical" alt="Myjeux" />
   </a>
 </p>
 
