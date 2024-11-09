@@ -3,6 +3,13 @@
   Hello World, I'm Abdessamad ouahidi! 
 </h1>
 
+</div>
+<div align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/abdouahi" alt="abdouahi's 42 stats" /></a>
+</div>
+<div align="center">
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=460&lines=Mobile+Developer;Always+Learning+New+Things;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
