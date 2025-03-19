@@ -9,9 +9,7 @@
 <div align="center">
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=460&lines=Mobile+Developer;Always+Learning+New+Things;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdouahi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -48,9 +46,6 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdouahi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
-
-## 🌟 Featured Projects
-
 
 
 ## Connect with Me
