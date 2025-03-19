@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1c26,50:2a454b,100:294861&height=171&text=Hi%20There!%20I'm%20Arthur&fontSize=30&fontAlignY=40&desc=Welcome%20on%20my%20Github&descAlignY=55&animation=fadeIn&fontColor=b2a496" alt="header" width="100%" />
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30px"> 
   Hello World, I'm Abdessamad ouahidi! 
