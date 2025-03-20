@@ -22,32 +22,22 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 
 
 ## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdouahi&show_icons=true&theme=radical&bg_color=5F9EA0&title_color=FFEBCD&icon_color=FFEBCD" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdouahi&theme=radical&bg_color=5F9EA0&title_color=FFEBCD&icon_color=FFEBCD" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdouahi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=5F9EA0&title_color=FFEBCD&hide_border=false&hide=python" height="150" alt="languages graph" style="max-width: 100%;">
 </p>
 
-
-
-
-
 ## GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdouahi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-
 ## Connect with Me
-
 <p align="center">
   <a href="https://linkedin.com/in/abdessamad-ouahidi" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -59,11 +49,9 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
-
 <p align="center">
 <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake animation" data-canonical-src="https://profile-readme-generator.com/assets/snake.svg" style="max-width: 100%;">
 </p>
-
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
 </p>
