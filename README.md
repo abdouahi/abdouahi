@@ -24,16 +24,17 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdouahi&show_icons=true&theme=radical&bg_color=FFD699&title_color=000000&icon_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdouahi&show_icons=true&theme=radical&bg_color=0F3D3E&title_color=FFD699&icon_color=FFD699" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdouahi&theme=radical&bg_color=FFD699&title_color=000000&icon_color=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdouahi&theme=radical&bg_color=0F3D3E&title_color=FFD699&icon_color=FFD699" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdouahi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=FFD699&title_color=000000&hide_border=false&hide=python" height="150" alt="languages graph" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdouahi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&bg_color=0F3D3E&title_color=FFD699&hide_border=false&hide=python" height="150" alt="languages graph" style="max-width: 100%;">
 </p>
+
 
 
 
