@@ -38,7 +38,7 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdouahi&show_icons=true&theme=dark&bg_color=0e1c26&title_color=b2a496&text_color=ffffff&icon_color=2a454b&border_color=294861" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdouahi&theme=dark&background=0e1c26&border=294861&ring=2a454b&fire=b2a496&currStreakNum=ffffff&sideNums=b2a496&currStreakLabel=b2a496&sideLabels=ffffff&dates=ffffff" width="49%" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdouahi&theme=dark&background=0e1c26&border=294861&ring=2a454b&fire=b2a496&currStreakNum=ffffff&sideNums=b2a496&currStreakLabel=b2a496&sideLabels=ffffff&dates=ffffff" width="49%" alt="GitHub Streak" /> -->
 </div>
 
 <!-- <div align="center">
