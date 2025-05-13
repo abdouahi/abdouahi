@@ -44,7 +44,9 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdouahi&layout=compact&langs_count=8&theme=dark&bg_color=0e1c26&title_color=b2a496&text_color=ffffff&border_color=294861" width="58%" alt="Top Languages" />
 </div>
+
 ## 🧩Leetcode
+
 <div align="center">
   ![LeetCode Stats](https://leetcard.jacoblin.cool/abdouahi?theme=dark&font=Harmattan&ext=heatmap)
 </div>
