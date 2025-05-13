@@ -46,10 +46,9 @@ I am Abdessamad Ouahidi, a passionate mobile developer and dedicated student at 
 </div>
 
 ## 🧩Leetcode
-
-<div align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/abdouahi?theme=dark&font=Harmattan&ext=heatmap)
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/abdouahi?theme=dark&font=Harmattan&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ## 🏆 GitHub Trophies
 
